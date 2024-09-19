@@ -1,0 +1,26 @@
+
+EXEMPLO: uvicorn endereco_fast:app --reload
+
+
+CADASTRAR:
+
+{
+  "rua": "Rua Exemplo",
+  "numero": "123",
+  "complemento": "Apto 45",
+  "bairro": "Bairro Exemplo",
+  "cidade": "Cidade Exemplo",
+  "estado": "EX",
+  "cep": "12345-678",
+  "pessoa_id": 1
+}
+
+
+ATUALIZAR:
+
+{
+  "rua": "Rua Atualizada",
+  "numero": "456"
+}
+
+
